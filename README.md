@@ -15,5 +15,5 @@ Check out the live version of this project here: [Live Preview](http://friends.v
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/nuzen-shinei/love-carousel.git
+   git clone https://github.com/nouzen-shinei/love-carousel.git
    ```
